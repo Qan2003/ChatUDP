@@ -1,0 +1,44 @@
+E:\UDP Chat\SGSserverUDP\Server\bin\Debug\Server.exe
+E:\UDP Chat\SGSserverUDP\Server\bin\Debug\Server.pdb
+E:\UDP Chat\SGSserverUDP\Server\obj\Debug\SGSserverUDP.csprojResolveAssemblyReference.cache
+E:\UDP Chat\SGSserverUDP\Server\obj\Debug\Server.SGSserverForm.resources
+E:\UDP Chat\SGSserverUDP\Server\obj\Debug\Server.Properties.Resources.resources
+E:\UDP Chat\SGSserverUDP\Server\obj\Debug\SGSserverUDP.csproj.GenerateResource.Cache
+E:\UDP Chat\SGSserverUDP\Server\obj\Debug\Server.exe
+E:\UDP Chat\SGSserverUDP\Server\obj\Debug\Server.pdb
+E:\SOFT\UDP Chat\SGSserverUDP\Server\obj\Debug\Server.exe
+E:\SOFT\UDP Chat\SGSserverUDP\Server\obj\Debug\Server.pdb
+D:\Downloads\SGSserverUDP-20230318T081708Z-001\SGSserverUDP\Server\bin\Debug\Server.exe.config
+D:\Downloads\SGSserverUDP-20230318T081708Z-001\SGSserverUDP\Server\bin\Debug\Server.exe
+D:\Downloads\SGSserverUDP-20230318T081708Z-001\SGSserverUDP\Server\bin\Debug\Server.pdb
+D:\Downloads\SGSserverUDP-20230318T081708Z-001\SGSserverUDP\Server\obj\Debug\SGSserverUDP.csproj.AssemblyReference.cache
+D:\Downloads\SGSserverUDP-20230318T081708Z-001\SGSserverUDP\Server\obj\Debug\SGSserverUDP.csproj.SuggestedBindingRedirects.cache
+D:\Downloads\SGSserverUDP-20230318T081708Z-001\SGSserverUDP\Server\obj\Debug\Server.SGSserverForm.resources
+D:\Downloads\SGSserverUDP-20230318T081708Z-001\SGSserverUDP\Server\obj\Debug\Server.Properties.Resources.resources
+D:\Downloads\SGSserverUDP-20230318T081708Z-001\SGSserverUDP\Server\obj\Debug\SGSserverUDP.csproj.GenerateResource.cache
+D:\Downloads\SGSserverUDP-20230318T081708Z-001\SGSserverUDP\Server\obj\Debug\SGSserverUDP.csproj.CoreCompileInputs.cache
+D:\Downloads\SGSserverUDP-20230318T081708Z-001\SGSserverUDP\Server\obj\Debug\Server.exe
+D:\Downloads\SGSserverUDP-20230318T081708Z-001\SGSserverUDP\Server\obj\Debug\Server.pdb
+D:\Downloads\Server\Server\Server\bin\Debug\Server.exe.config
+D:\Downloads\Server\Server\Server\bin\Debug\Server.exe
+D:\Downloads\Server\Server\Server\bin\Debug\Server.pdb
+D:\Downloads\Server\Server\Server\obj\Debug\SGSserverUDP.csproj.AssemblyReference.cache
+D:\Downloads\Server\Server\Server\obj\Debug\SGSserverUDP.csproj.SuggestedBindingRedirects.cache
+D:\Downloads\Server\Server\Server\obj\Debug\Server.SGSserverForm.resources
+D:\Downloads\Server\Server\Server\obj\Debug\Server.Properties.Resources.resources
+D:\Downloads\Server\Server\Server\obj\Debug\SGSserverUDP.csproj.GenerateResource.cache
+D:\Downloads\Server\Server\Server\obj\Debug\SGSserverUDP.csproj.CoreCompileInputs.cache
+D:\Downloads\Server\Server\Server\obj\Debug\Server.exe
+D:\Downloads\Server\Server\Server\obj\Debug\Server.pdb
+D:\Documents\LapTrinhMang\Server\Server\bin\Debug\Server.exe.config
+D:\Documents\LapTrinhMang\Server\Server\bin\Debug\Server.exe
+D:\Documents\LapTrinhMang\Server\Server\bin\Debug\Server.pdb
+D:\Documents\LapTrinhMang\Server\Server\obj\Debug\SGSserverUDP.csproj.AssemblyReference.cache
+D:\Documents\LapTrinhMang\Server\Server\obj\Debug\SGSserverUDP.csproj.SuggestedBindingRedirects.cache
+D:\Documents\LapTrinhMang\Server\Server\obj\Debug\Server.Properties.Resources.resources
+D:\Documents\LapTrinhMang\Server\Server\obj\Debug\SGSserverUDP.csproj.GenerateResource.cache
+D:\Documents\LapTrinhMang\Server\Server\obj\Debug\SGSserverUDP.csproj.CoreCompileInputs.cache
+D:\Documents\LapTrinhMang\Server\Server\obj\Debug\Server.exe
+D:\Documents\LapTrinhMang\Server\Server\obj\Debug\Server.pdb
+D:\Documents\LapTrinhMang\Server\Server\obj\Debug\Server.Server.resources
+D:\Documents\LapTrinhMang\Server\Server\obj\Debug\Server.Login.resources

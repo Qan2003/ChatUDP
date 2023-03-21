@@ -1,0 +1,34 @@
+E:\UDP Chat\SGSclientUDP\SGSclient\bin\Debug\SGSclient.exe
+E:\UDP Chat\SGSclientUDP\SGSclient\bin\Debug\SGSclient.pdb
+E:\UDP Chat\SGSclientUDP\SGSclient\obj\Debug\SGSclient.SGSClient.resources
+E:\UDP Chat\SGSclientUDP\SGSclient\obj\Debug\SGSclient.LoginForm.resources
+E:\UDP Chat\SGSclientUDP\SGSclient\obj\Debug\SGSclient.Properties.Resources.resources
+E:\UDP Chat\SGSclientUDP\SGSclient\obj\Debug\SGSclientUDP.csproj.GenerateResource.Cache
+E:\UDP Chat\SGSclientUDP\SGSclient\obj\Debug\SGSclient.exe
+E:\UDP Chat\SGSclientUDP\SGSclient\obj\Debug\SGSclient.pdb
+F:\SOFT\UDP Chat\SGSclientUDP\SGSclient\obj\Debug\SGSclient.exe
+F:\SOFT\UDP Chat\SGSclientUDP\SGSclient\obj\Debug\SGSclient.pdb
+D:\Downloads\SGSclientUDP-20230320T033850Z-001\SGSclientUDP\SGSclient\bin\Debug\SGSclient.exe.config
+D:\Downloads\SGSclientUDP-20230320T033850Z-001\SGSclientUDP\SGSclient\bin\Debug\SGSclient.exe
+D:\Downloads\SGSclientUDP-20230320T033850Z-001\SGSclientUDP\SGSclient\bin\Debug\SGSclient.pdb
+D:\Downloads\SGSclientUDP-20230320T033850Z-001\SGSclientUDP\SGSclient\obj\Debug\SGSclientUDP.csproj.AssemblyReference.cache
+D:\Downloads\SGSclientUDP-20230320T033850Z-001\SGSclientUDP\SGSclient\obj\Debug\SGSclientUDP.csproj.SuggestedBindingRedirects.cache
+D:\Downloads\SGSclientUDP-20230320T033850Z-001\SGSclientUDP\SGSclient\obj\Debug\SGSclient.SGSClient.resources
+D:\Downloads\SGSclientUDP-20230320T033850Z-001\SGSclientUDP\SGSclient\obj\Debug\SGSclient.LoginForm.resources
+D:\Downloads\SGSclientUDP-20230320T033850Z-001\SGSclientUDP\SGSclient\obj\Debug\SGSclient.Properties.Resources.resources
+D:\Downloads\SGSclientUDP-20230320T033850Z-001\SGSclientUDP\SGSclient\obj\Debug\SGSclientUDP.csproj.GenerateResource.cache
+D:\Downloads\SGSclientUDP-20230320T033850Z-001\SGSclientUDP\SGSclient\obj\Debug\SGSclientUDP.csproj.CoreCompileInputs.cache
+D:\Downloads\SGSclientUDP-20230320T033850Z-001\SGSclientUDP\SGSclient\obj\Debug\SGSclient.exe
+D:\Downloads\SGSclientUDP-20230320T033850Z-001\SGSclientUDP\SGSclient\obj\Debug\SGSclient.pdb
+D:\Documents\LapTrinhMang\Client\SGSclient\bin\Debug\SGSclient.exe.config
+D:\Documents\LapTrinhMang\Client\SGSclient\bin\Debug\SGSclient.exe
+D:\Documents\LapTrinhMang\Client\SGSclient\bin\Debug\SGSclient.pdb
+D:\Documents\LapTrinhMang\Client\SGSclient\obj\Debug\SGSclientUDP.csproj.AssemblyReference.cache
+D:\Documents\LapTrinhMang\Client\SGSclient\obj\Debug\SGSclientUDP.csproj.SuggestedBindingRedirects.cache
+D:\Documents\LapTrinhMang\Client\SGSclient\obj\Debug\SGSclient.SGSClient.resources
+D:\Documents\LapTrinhMang\Client\SGSclient\obj\Debug\SGSclient.LoginForm.resources
+D:\Documents\LapTrinhMang\Client\SGSclient\obj\Debug\SGSclient.Properties.Resources.resources
+D:\Documents\LapTrinhMang\Client\SGSclient\obj\Debug\SGSclientUDP.csproj.GenerateResource.cache
+D:\Documents\LapTrinhMang\Client\SGSclient\obj\Debug\SGSclientUDP.csproj.CoreCompileInputs.cache
+D:\Documents\LapTrinhMang\Client\SGSclient\obj\Debug\SGSclient.exe
+D:\Documents\LapTrinhMang\Client\SGSclient\obj\Debug\SGSclient.pdb
